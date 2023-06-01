@@ -1,0 +1,9 @@
+{
+	"name": "devfact123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2964f0a-94d6-456c-b5d5-564ab5500cdc",
+		"tenantId": "c4a0746d-9b6d-4bd0-833c-23c3d148a6fd"
+	}
+}
